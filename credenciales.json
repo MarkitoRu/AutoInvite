@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "mimetic-science-456417-p0",
+  "private_key_id": "1640a49d876acc88bfd78d800d4311feaa4d3c9f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCZHFd1+g/KgrX/\nAWxFah6e0blzXG2nY4FYglYfPukAgge5t3Lu/Hd8qcvJWRNrZur305rMaJFHxIYM\neXIjdb3/pHQQgx8J7Dt0i1hgEIOqTzDDcxvFrvrxPMV4VTjUxidcKZn92H/G7jRJ\nv/ODKsgqBSSWW7C5QykTuKhyVNkFIS2aRfhzNYQXU841oYUja1nMbL+b+hPU6ZCt\n4qIzvIJ5OnYynmMBY+D/Ps2HHMCirq4XnGgbMQjUsf1RgqeMYOAjl10yktd5aksw\nkcKzRrNHi8L+DND7vyVxWqC4yohQ9+c56YUwu/tsigcnbzxKPwhxIm180KK18tAg\negVLN6xjAgMBAAECggEADSBPZTdfdDKZjLegAyFyZ5Y+SmQRqIiQ1bgyzvHzQs5j\nACp4iYGOctsRs/zVe98yZLW47y5FyjvQbDBbNywIcmq0YpgDKLQecsLhfDbeOtMY\nMKFlL6DtNZJKsaLIwQEN7cpJP+h4J+NTC0GQDF42E9gmB1fsAi3+TwkFM+wPQO+x\nx4ufKl27/fi91miJLlasUGVSv6GKyxFuyf/47S3GkoRHwJ1m4pdH4gAtz+yVYviU\nTdVAMQvdvES9dnHbejshDm5KEVSqRRnBStKdNUZXcarHP6vd4SyNS9ADwsH/7JhX\nbRKAfAS1rtHCBHP6rGQQJRyzVZW9ZnlgVM2wOSc96QKBgQDKGjoPb3IOp/D/7dkt\nIySqLUws5C55Cd728U1yXQJ1BYIF0/k7M1+YPDPBnqFXrGUmA8/1DswInuOEPYjF\nj6E6yV2Cs6ZwefMMhbaK26BqWF3Yl+/I2wOI8ayFjMu0dI4G5ttCBy/+iFlE2kog\nP0MU/HmWBf2R8ESnMI8NivYCKwKBgQDB8WQRBS44mRyZyLva7yxvMPh4bgOsoFZ+\nVUcd4ThSMcYM3PyGJRTe4bRqYUDqLavp+Z6oHd2YYxNDgmh4NP4CdZI/TNaYcf06\n2/pzYGJW4Fxq0phwWmWcb8OhtZA2l+V3jfM9jpkxMn6W3pWrR0zBtwHmAj8Hjv2+\n8prvDje6qQKBgG/qviQ2Du9WyPqw+Acq4u7qTri9U47rjHErhzvBjc7H0gzwKaBC\n/rkK/Y5HDgnDCfBXRB3sp8hOVKeye78LnrkzMXljitPWdGWG1mNm5Bp//NgoqzyL\nLBX13xfFtDimItBnnxudZ1KIpwad61aYMcm5Vothnd3nM91x4oYZYcopAoGACoIo\n2N89/OUW7qI4w4kYEEJIBEZ5vn3FkfzO6KiOY628vG+w4xfZRKZYHzd7y/SDjx7u\nYM+VdS9RGORVAsZkSP/T18gzDHmIrgrDTEMZsPlhKIyWo+fR/6Lyp61tzfd3AH5Z\ngqlaVZcV0tjmpSws1YYz/SF8Bs3Ro+oDSRatIFkCgYEAmbWI2rVX95CqBolRsATw\nFHuv0CnniNkuN78i/xNHK3pIl/KrUw4p1eYrNPF0/Gj7I6+Al8uYoGiAIcUJ7IlM\nLawAUKgcyjcTuVazKGpemJViNVNkjn4ytEUOZXEFep7hxOLc2zwoKXIaSw4BG+NC\n7/MfnS4Qf3sHcjWmwZg8lBw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "id-wcarg-chatbot@mimetic-science-456417-p0.iam.gserviceaccount.com",
+  "client_id": "105738555890734933898",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/id-wcarg-chatbot%40mimetic-science-456417-p0.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
